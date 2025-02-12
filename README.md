@@ -1,2 +1,2 @@
 # Java_Projects
-These are Java Projects done in NetBeans IDE.
+These Java Projects have been done using NetBeans IDE.
